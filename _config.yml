@@ -1,4 +1,3 @@
-layout_spectrum: 0.9671231706161052
 typography_spectrum: 0.28486898611299694
 color:
   brandStrength: 0.4060540914069861
@@ -6,9 +5,11 @@ color:
   saturation: 0.3008700078353286
   rhythmicContrast: 0.5136246213223785
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.9671231706161052
 name: Fuller Up...The Dead Musicians Directory
+title: Dead Musicians
